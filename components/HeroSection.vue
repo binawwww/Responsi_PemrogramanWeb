@@ -220,10 +220,11 @@ export default {
 
 .card{
   background-color: lightcyan;
+  border-radius: 50px;
 }
 
 .card ul li{
   background-color: lightcyan;
-  border-radius: 30px;
+
 }
 </style>
